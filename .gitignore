@@ -10,3 +10,8 @@ dist/
 .idea/
 .vscode/
 *.log
+venv/
+node_modules/
+coverage/
+reports/
+outputs/
